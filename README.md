@@ -14,19 +14,41 @@ https://www.loom.com/share/a8e726fea02e4fd5baaf4f958973f136
 
 
 
+
+
+
+
+
+
+# Инструкции по использованию
+
+
+
+
+
+
 **Установка зависимостей:**
+
   npm install
 
 **Настройка базы данных:**
+
 type: 'postgres',
+
 host: 'localhost',
+
 port: 5432,
+
 username: 'postgres',
+
 password: 'postgres',
+
 database: 'postgres',
 
 **Запуск приложения:**
+
 npm run start
 
 Для создания/изменения задач/групп используйте авторизацию под пользователем admin/admin (пароль).
+
 Для получения задач/групп используйте авторизацию под пользователем reader/reader (пароль).
