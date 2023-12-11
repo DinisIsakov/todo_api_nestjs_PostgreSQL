@@ -5,6 +5,7 @@
 
 https://www.loom.com/share/a8e726fea02e4fd5baaf4f958973f136
 
+
 **ТЕХНИЧЕСКОЕ ЗАДАНИЕ**
 
 ![image](https://github.com/DinisIsakov/todo_api_nestjs_PostgreSQL/assets/98638804/b278a16f-ca7d-4805-81da-67ff0fac55a0)
